@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1 id="title">Darth Vader</h1>
+    <p class="desc">The chosen one</p>
+  </header>
+  <main id="main">
+    <div class="intro">
+      <p>Darth Vader, a cinematic legend, commands our tribute today. From the tragic fall of Anakin Skywalker to the imposing Sith Lord in black armor, Vader's journey is a compelling tale of darkness, redemption, and the enduring power of choice. With his iconic appearance, menacing voice, and the red lightsaber, Darth Vader has become an indelible symbol in popular culture. Let us honor the character whose story reminds us that even in the darkest moments, redemption is possible. May the Force be with Darth Vader in the timeless realms of our imagination.</p>
+    </div>
+
+    <div class='img'>
+      <img  src='https://www.pixel4k.com/wp-content/uploads/2019/05/darth-vader-4k-2019_1558219916.jpg'>
+      
+      
+    </div>
+    <div class='events'>
+      <p class='chrono'>The chronological life events of Darth Vader, formerly Anakin Skywalker, are outlined as follows:</p>
+      <ul>
+        <li><p>Birth of Anakin Skywalker (41.9 BBY): Anakin is born on the desert planet Tatooine. He is discovered by Jedi Master Qui-Gon Jinn, who senses strong Force potential in the young slave.</p></li>
+        <li><p>Training as a Jedi (32 BBY): Anakin is trained as a Jedi under the guidance of Obi-Wan Kenobi, despite concerns about his attachment and fear.</p></li>
+        <li><p>Clone Wars (22 BBY - 19 BBY): Anakin becomes a hero in the Clone Wars, displaying exceptional piloting and combat skills. He also forms a close bond with Padmé Amidala, secretly marrying her.</p></li>
+        <li><p>Fall to the Dark Side (19 BBY): Driven by fear for Padmé's life and manipulated by Emperor Palpatine (Darth Sidious), Anakin succumbs to the dark side, becoming Darth Vader. He participates in the Jedi Purge, aiding in the destruction of the Jedi Order.</p></li>
+        <li><p>Battle of Mustafar (19 BBY): Anakin, now Darth Vader, engages in a lightsaber duel with Obi-Wan on the volcanic planet Mustafar. He is severely injured and left for dead.</p></li>
+        <li><p>Transformation into Darth Vader (19 BBY): Rescued by Palpatine, Anakin undergoes extensive cybernetic reconstruction, transforming into the iconic figure known as Darth Vader.</p></li>
+        <li><p>Servitude to the Emperor (19 BBY - 4 BBY): Darth Vader becomes the enforcer of the Galactic Empire under Emperor Palpatine, hunting down remaining Jedi and enforcing imperial rule.</p></li>
+        <li><p>Discovery of Luke Skywalker (0 BBY): Vader discovers that the Rebel pilot who destroyed the Death Star is his son, Luke Skywalker.</p></li>
+      
+        <li><p>Redemption and Death (4 ABY): In the Battle of Endor, Vader is redeemed by the love and compassion of his son, Luke. He ultimately sacrifices himself to destroy the Emperor, bringing balance to the Force.</p></li>
+
+      </ul>
+      
+      <p class="sequence">This sequence summarizes the major life events of Anakin Skywalker's transformation into Darth Vader and his eventual redemption.</p>
+    </div>
+    <div class="quote">
+      <p><blockquote>"You either die a hero or live long enough to see yourself become the villain."</blockquote> <cite>- Harvey Dent </cite></p>
+    </div>
+    <div class="reference">
+      <p>If you wish to know more about Darth Vader,visit <a href="https://en.wikipedia.org/wiki/Darth_Vader">here</a></p>
+      <footer class="thanks">Thank you for reading...</footer>
+    </div>
+  </main>
+</body>
